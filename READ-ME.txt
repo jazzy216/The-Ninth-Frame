@@ -1,0 +1,13 @@
+THE NINTH FRAME — COMPLETE WEBCOMIC
+
+1. Extract this ZIP file (on Windows: right-click > Extract All).
+2. Open index.html in Chrome, Edge, Firefox, or Safari.
+3. Keep the assets folder, style.css, and reader.js beside index.html.
+
+Contains all eight chapters, 48 illustrated panels, chapter navigation,
+and the optional spoiler-protected case notes after the ending.
+
+The comic works without an internet connection. The online edition uses
+optional web fonts; this downloadable edition uses your device's fonts.
+
+Online edition: https://the-ninth-frame.jazzy216.chatgpt.site
